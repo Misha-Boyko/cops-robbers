@@ -23,5 +23,5 @@ export default {
   dom: {
     createContainer: true,
   },
-  scene: [],
+  scene: [], // List of scenes to be loaded
 };

@@ -3,7 +3,7 @@
 // Bring in all the scenes
 import "phaser";
 import config from "./config/config";
-//import WaitingRoom from "./scenes/WaitingRoom";
+import WaitingRoom from "./scenes/WaitingRoom";
 import MainScene from "./scenes/MainScene";
 //import TaskScene from "./scenes/TaskScene";
 
